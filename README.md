@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm EllyPirelly 👋
 
-<!--
-**EllyPirelly/EllyPirelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fulltime Frontend Developer at Berlin-based [3pc GmbH](https://3pc.de/en/).
 
-Here are some ideas to get you started:
+Previously, I've worked at Oetker Digital and Zalando.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With my background of 26 years in print media as digital media designer, image editor and proof reader, I'm working on and improving in merging the digital and physical world - to turn things into semantic HTML and subjectively pretty (S)CSS.
+
+- 🔭 I’m currently working on transfering my static portfolio page to Vue 3
+- 🌱 I’m currently learning: Vue 3 and trying to get better in all basics - HTML, CSS, JavaScript
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I can clap my hands really loud - and I mean _really_ loud!
+
+### Find me
+
+:computer: - [CodePen](https://codepen.io/ellypirelly/pens/public) <br/>
+:pencil2: - [Medium](https://elly-pirelly.medium.com/)
+
