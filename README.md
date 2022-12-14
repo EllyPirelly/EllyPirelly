@@ -15,4 +15,4 @@ With my background of 26 years in print media as digital media designer, image e
 
 :computer: - [CodePen](https://codepen.io/ellypirelly/pens/public) <br/>
 :bust_in_silhouette: - [LinkedIn](https://www.linkedin.com/in/elle-hanschen/) 
-
+:elephant: - [Mastodon](https://mastodon.world/@EllyPirelly)
