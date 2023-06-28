@@ -6,6 +6,7 @@ I'm a Berlin-based Frontend Engineer | Pronouns: she/her
 Being on my way to Full Stack Web Developer, I love working on the web in taking my previous experience of 26 years as a digital media designer (print), and merging it with my now digital one. <br>
 
 Working with stakeholders of all backgrounds – being it the German government, a traditional business that has been founded in 1891, or a huge German online retailer – I enjoy helping to identify customer pain points, bridging gaps through transparent communication and delivering solutions. <br>
+Previously, I've worked at 3pc GmbH, Oetker Digital and Zalando SE.
 
 Deeply curious, I love learning and finding out "how things work". <br>
 Throwing something I've built in a browser sometimes still seems like magic :magic_wand: to me. <br>
