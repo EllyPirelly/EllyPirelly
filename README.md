@@ -1,3 +1,5 @@
+![banner-github](https://github.com/EllyPirelly/EllyPirelly/assets/47147981/5eb0ca57-3962-4053-9b8e-a81383cfc294)
+
 ## Hi, I'm Elle 👋
 
 ### :open_book: About me
