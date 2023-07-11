@@ -1,6 +1,4 @@
-<picture>
- <img alt="banner saying Hi, I'm Elle! I build things for the web!" src="https://github-production-user-asset-6210df.s3.amazonaws.com/47147981/252687255-5eb0ca57-3962-4053-9b8e-a81383cfc294.png">
-</picture>
+![banner saying Hi, I'm Elle! I build things for the web!](https://camo.githubusercontent.com/dfaef4db5f81a0e250e29cb49caecaa452201df7429a6f4cc06921f4b992cc61/68747470733a2f2f6769746875622d70726f64756374696f6e2d757365722d61737365742d3632313064662e73332e616d617a6f6e6177732e636f6d2f34373134373938312f3235323638373235352d35656230636135372d333936322d343035332d396238652d6138313338336366633239342e706e67)
 
 ## Hello, I'm Elle 👋
 
